@@ -3,6 +3,16 @@
     Hey there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+- :seedling: I am Manasi Khandekar and am currently pursuing my M.S. in Electrical Engineering (Data-Driven Analysis and Computation track) from Columbia University with a focus on Data Science and Machine Learning.
+  
+- :zap: I have worked as a Software Engineer at Deutsche Bank for a year. I contributed to frontend development, microservices integration, devops support as well as worked on training an unsupervised ML system for anomaly detection.
+
+- :mailbox:How to reach me:
   <div id="badges">
     <a href="https://www.linkedin.com/in/manasikhandekar">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,23 +21,6 @@
       <img src="https://img.shields.io/badge/Website-yellow?style=for-the-badge&logo=netlify&logoColor=white" alt="Website Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=manasikhandekar9&style=flat-square&color=blue" alt=""/>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
