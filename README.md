@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://manasikhandekar9.netlify.app">
-      <img src="https://img.shields.io/badge/Website-yellow?logo=netlify&logoColor=white" alt="Website Badge"/>
+      <img src="https://img.shields.io/badge/Website-yellow?style=for-the-badge&logo=netlify&logoColor=white" alt="Website Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=manasikhandekar9&style=flat-square&color=blue" alt=""/>
